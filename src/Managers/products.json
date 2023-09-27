@@ -1,0 +1,92 @@
+[
+	{
+		"title": "producto prueba",
+		"description": "Este es un producto prueba",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc123",
+		"stock": 25,
+		"id": 1
+	},
+	{
+		"title": "jeans",
+		"description": "ropa de hombre",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc124",
+		"stock": 12,
+		"id": 2
+	},
+	{
+		"title": "blusa",
+		"description": "ropa de mujer",
+		"price": 599,
+		"thumbnail": "sin imagen",
+		"code": "abc125",
+		"stock": 12,
+		"id": 3
+	},
+	{
+		"title": "vestido",
+		"description": "ropa de mujer",
+		"price": 599,
+		"thumbnail": "sin imagen",
+		"code": "abc126",
+		"stock": 12,
+		"id": 4
+	},
+	{
+		"title": "playera",
+		"description": "ropa de hombre",
+		"price": 399,
+		"thumbnail": "sin imagen",
+		"code": "abc127",
+		"stock": 22,
+		"id": 5
+	},
+	{
+		"title": "zapatos",
+		"description": "calzado hombre",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc128",
+		"stock": 15,
+		"id": 6
+	},
+	{
+		"title": "tennis",
+		"description": "calzado mujer",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc129",
+		"stock": 20,
+		"id": 7
+	},
+	{
+		"title": "sudadera",
+		"description": "ropa de mujer",
+		"price": 899,
+		"thumbnail": "sin imagen",
+		"code": "abc130",
+		"stock": 8,
+		"id": 8
+	},
+	{
+		"title": "jeans",
+		"description": "ropa de hombre",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc131",
+		"stock": 13,
+		"id": 9
+	},
+	{
+		"title": "sandalias",
+		"description": "calzado mujer",
+		"price": 299,
+		"thumbnail": "sin imagen",
+		"code": "abc132",
+		"stock": 19,
+		"id": 10
+	}
+]
